@@ -1,0 +1,2 @@
+# Word2Voiceroid
+WordからVoiceroidへ文章を飛ばすやつ
