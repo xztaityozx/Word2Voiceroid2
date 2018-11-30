@@ -1,2 +1,2 @@
-# Word2Voiceroid
-WordからVoiceroidへ文章を飛ばすやつ
+# Word2Voiceroid2
+WordからVoiceroid2へ文章を飛ばすやつ
